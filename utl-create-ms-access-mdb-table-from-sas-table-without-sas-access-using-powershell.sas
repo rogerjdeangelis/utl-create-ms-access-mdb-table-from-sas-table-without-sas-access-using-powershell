@@ -13,7 +13,9 @@ Create ms access mdb table from sas table without sas access using powershell
  you need tagsets.sql (https://tinyurl.com/y9nfugth)
  you need to install oledb (https://tinyurl.com/3em6k2z7)
 
-
+github
+https://tinyurl.com/y9v55j5z
+https://github.com/rogerjdeangelis/utl-create-ms-access-mdb-table-from-sas-table-without-sas-access-using-powershell
 
 macros
 https://tinyurl.com/y9nfugth
